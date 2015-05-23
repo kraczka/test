@@ -1,6 +1,6 @@
 using System; 
 
-public class Hello3
+public class Hello
 {
    public static void Main(string[] args)
    {
