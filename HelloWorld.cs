@@ -12,6 +12,6 @@ public class Hello3
          Console.WriteLine("{0}", args[i]); 
       }
 
-      Console.WriteLine('test');
+      Console.Readline();
    }
 }
